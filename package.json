@@ -26,6 +26,10 @@
   "author": {
     "name": "xtiao"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x1aodingdang/preload-imgs"
+  },
   "bundleDependencies": false,
   "deprecated": false,
   "description": "这是一个图片预加载的插件",
@@ -49,5 +53,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "2.0.4"
+  "version": "2.0.5"
 }
