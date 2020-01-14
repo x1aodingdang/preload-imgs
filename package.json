@@ -1,0 +1,53 @@
+{
+  "_from": "preload-imgs",
+  "_id": "preload-imgs@2.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-cbkqyG790kl/SFFZlEzAF2PwIpDFNuegdU/WptsdLk8EzD6S96SKcrO/j2RLJxnaf9lAEZVK8Aut3Kg6a/ZSlA==",
+  "_location": "/preload-imgs",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "preload-imgs",
+    "name": "preload-imgs",
+    "escapedName": "preload-imgs",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/preload-imgs/-/preload-imgs-2.0.1.tgz",
+  "_shasum": "81de36f1495f08cb9114da310337ed5c2fd2309c",
+  "_spec": "preload-imgs",
+  "_where": "/Users/tutu/Desktop/tutu/demo/preload-imgs",
+  "author": {
+    "name": "xtiao"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "这是一个图片预加载的插件",
+  "devDependencies": {},
+  "keywords": [
+    "图片预加载",
+    "图片加载",
+    "图片",
+    "img",
+    "preload",
+    "preload-imgs",
+    "preloadImgs",
+    "loadimg",
+    "preloadimges",
+    "vue",
+    "vue-preloadimges"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "preload-imgs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.0.4"
+}
