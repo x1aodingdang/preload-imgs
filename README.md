@@ -2,16 +2,18 @@
 
 ### install
 
-`npm i preload-imgs -S`
+```shell
+npm i preload-imgs -S
+```
 
 ### use
 
-```
-import preloadImgs from 'preload-imgs';
+```js
+import preloadImgs from "preload-imgs";
 
-preloadImgs(['http://test.png']).then( res => {
-  // 所有图片加载完毕
-}).catch( rej => {
-
-})
+preloadImgs(["http://test.png"])
+  .then(res => {
+    // 所有图片加载完毕
+  })
+  .catch(rej => {});
 ```
